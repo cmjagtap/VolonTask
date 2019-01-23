@@ -4,7 +4,6 @@
 
 - [Chandramohan Jagtap](https://github.com/cmjagtap "Chandramohan's github profile")
 
-![Screenshot](screenshots/graph.png)
 
 #### DESCRIPTION:
 

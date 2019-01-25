@@ -41,7 +41,6 @@ def createIndexDumpData(latestT):
         es.index(index="donald",ignore=400,doc_type='docs',body=latestT[i-1],id=i) 
         
         #es.indices.get_mapping(index="donald",doc_type="docs") #to check is mapping done
-        return
 
 def getRecord(idx):
     result = es.get(index="donald",doc_type="docs",id=idx) #find tweet given by id
